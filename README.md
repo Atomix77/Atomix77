@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Thomas Haslam
+# 👋 Hey there, I'm Tom Haslam
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+Robotics+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
