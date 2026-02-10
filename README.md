@@ -24,7 +24,7 @@ Full-stack developer & AI engineer building intelligent systems and mobile appli
 
 I combine responsive frontend design, scalable backend architecture, and cutting-edge AI/ML to create production-ready solutions. Whether it's autonomous systems, web applications, or AI-powered mobile apps, I build things that work.
 
-**Check out my [full portfolio](https://atomix77.github.io/portfolio/) for CV, experience, and detailed project showcases.**
+**Check out my [full portfolio](https://atomix77.github.io/portfolio/){:target="_blank"} for CV, experience, and detailed project showcases.**
 
 ---
 
@@ -41,7 +41,7 @@ React Native mobile app for creating intelligent sailing lesson plans powered by
 
 **Tech**: React Native • TypeScript • Expo • Google Gemini API • Lucide Icons
 
-[🔗 View Repository](https://github.com/Atomix77/SessionPlanner)
+[🔗 View Repository](https://github.com/Atomix77/SessionPlanner){:target="_blank"}
 
 ---
 
@@ -56,7 +56,7 @@ Intelligent autonomous navigation for vessels using neural networks evolved thro
 
 **Tech**: Python • PyTorch • ROS 2 • Gazebo • Genetic Algorithms
 
-[🔗 View Repository](https://github.com/Atomix77/autonomous-navigation)
+[🔗 View Repository](https://github.com/Atomix77/autonomous-navigation){:target="_blank"}
 
 ---
 
@@ -70,7 +70,7 @@ Real-time control systems for robotic applications with advanced sensor integrat
 
 **Tech**: Python • ROS 2 • Linux • Docker • Sensor Integration
 
-[🔗 View Repository](https://github.com/Atomix77/robotic-control)
+[🔗 View Repository](https://github.com/Atomix77/robotic-control){:target="_blank"}
 
 ---
 
@@ -85,7 +85,7 @@ Interactive web-based guessing game where players identify Avatar: The Last Airb
 
 **Tech**: JavaScript • HTML • CSS
 
-[🎮 Play Bendle](https://atomix77.github.io/bendle/) | [🔗 View Repository](https://github.com/Atomix77/bendle)
+[🎮 Play Bendle](https://atomix77.github.io/Bendle/){:target="_blank"} | [🔗 View Repository](https://github.com/Atomix77/bendle){:target="_blank"}
 
 ---
 
@@ -127,8 +127,8 @@ Interactive web-based guessing game where players identify Avatar: The Last Airb
 
 ## 🔗 Let's Connect
 
-📌 **[Portfolio](https://atomix77.github.io/portfolio/)** - Full CV, experience, and detailed project showcases  
-💼 **[LinkedIn](https://linkedin.com/in/thomas-haslam)** - Professional connections  
+📌 **[Portfolio](https://atomix77.github.io/portfolio/){:target="_blank"}** - Full CV, experience, and detailed project showcases  
+💼 **[LinkedIn](https://linkedin.com/in/thomas-haslam){:target="_blank"}** - Professional connections  
 📧 **[Email](mailto:hasllamtom77@gmail.com)** - Get in touch
 
 ---
