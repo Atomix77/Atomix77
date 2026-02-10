@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tom Haslam
+# 👋 Hey there, I'm Thomas Haslam
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+Robotics+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/thomas-haslam" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hasllamtom77@gmail.com" target="_blank">
+  <a href="mailto:hasllamtom77@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -24,7 +24,7 @@ Full-stack developer & AI engineer building intelligent systems and mobile appli
 
 I combine responsive frontend design, scalable backend architecture, and cutting-edge AI/ML to create production-ready solutions. Whether it's autonomous systems, web applications, or AI-powered mobile apps, I build things that work.
 
-**Check out my [full portfolio](https://atomix77.github.io/portfolio/){:target="_blank"} for CV, experience, and detailed project showcases.**
+**Check out my <a href="https://atomix77.github.io/portfolio/" target="_blank">full portfolio</a> for CV, experience, and detailed project showcases.**
 
 ---
 
@@ -41,7 +41,7 @@ React Native mobile app for creating intelligent sailing lesson plans powered by
 
 **Tech**: React Native • TypeScript • Expo • Google Gemini API • Lucide Icons
 
-[🔗 View Repository](https://github.com/Atomix77/SessionPlanner){:target="_blank"}
+<a href="https://github.com/Atomix77/SessionPlanner" target="_blank">🔗 View Repository</a>
 
 ---
 
@@ -56,7 +56,7 @@ Intelligent autonomous navigation for vessels using neural networks evolved thro
 
 **Tech**: Python • PyTorch • ROS 2 • Gazebo • Genetic Algorithms
 
-[🔗 View Repository](https://github.com/Atomix77/autonomous-navigation){:target="_blank"}
+<a href="https://github.com/Atomix77/autonomous-navigation" target="_blank">🔗 View Repository</a>
 
 ---
 
@@ -67,10 +67,11 @@ Real-time control systems for robotic applications with advanced sensor integrat
 - **Sensor Integration**: Multi-sensor data processing and fusion
 - **Path Planning**: Intelligent navigation algorithms with collision avoidance
 - **Dynamic Environments**: Autonomous decision-making in unpredictable scenarios
+- **Production-Ready**: Containerized with Docker for deployment
 
 **Tech**: Python • ROS 2 • Linux • Docker • Sensor Integration
 
-[🔗 View Repository](https://github.com/Atomix77/robotic-control){:target="_blank"}
+<a href="https://github.com/Atomix77/robotic-control" target="_blank">🔗 View Repository</a>
 
 ---
 
@@ -85,7 +86,7 @@ Interactive web-based guessing game where players identify Avatar: The Last Airb
 
 **Tech**: JavaScript • HTML • CSS
 
-[🎮 Play Bendle](https://atomix77.github.io/Bendle/){:target="_blank"} | [🔗 View Repository](https://github.com/Atomix77/bendle){:target="_blank"}
+<a href="https://atomix77.github.io/Bendle/" target="_blank">🎮 Play Bendle</a> | <a href="https://github.com/Atomix77/bendle" target="_blank">📚 View Code</a>
 
 ---
 
@@ -127,8 +128,12 @@ Interactive web-based guessing game where players identify Avatar: The Last Airb
 
 ## 🔗 Let's Connect
 
-📌 **[Portfolio](https://atomix77.github.io/portfolio/){:target="_blank"}** - Full CV, experience, and detailed project showcases  
-💼 **[LinkedIn](https://linkedin.com/in/thomas-haslam){:target="_blank"}** - Professional connections  
-📧 **[Email](mailto:hasllamtom77@gmail.com)** - Get in touch
+📌 <a href="https://atomix77.github.io/portfolio/" target="_blank">**Portfolio**</a> - Full CV, experience, and detailed project showcases  
+💼 <a href="https://linkedin.com/in/thomas-haslam" target="_blank">**LinkedIn**</a> - Professional connections  
+📧 <a href="mailto:hasllamtom77@gmail.com">**Email**</a> - Get in touch
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atomix77&color=00D9FF&style=flat-square" alt="Profile views" />
+</div>
