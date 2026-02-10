@@ -22,7 +22,7 @@
 
 Full-stack developer & AI engineer building intelligent systems and mobile applications. Currently completing my MEng in Computer Science with Artificial Intelligence at the University of York. 
 
-I combine responsive frontend design, scalable backend architecture, and cutting-edge AI/ML to create production-ready solutions. Whether it's autonomous systems, web applications, or AI-powered mobile apps—I build things that work.
+I combine responsive frontend design, scalable backend architecture, and cutting-edge AI/ML to create production-ready solutions. Whether it's autonomous systems, web applications, or AI-powered mobile apps, I build things that work.
 
 **Check out my [full portfolio](https://atomix77.github.io/portfolio/) for CV, experience, and detailed project showcases.**
 
@@ -41,7 +41,7 @@ React Native mobile app for creating intelligent sailing lesson plans powered by
 
 **Tech**: React Native • TypeScript • Expo • Google Gemini API • Lucide Icons
 
-[📱 View Repository](https://github.com/Atomix77/SessionPlanner)
+[🔗 View Repository](https://github.com/Atomix77/SessionPlanner)
 
 ---
 
@@ -67,7 +67,6 @@ Real-time control systems for robotic applications with advanced sensor integrat
 - **Sensor Integration**: Multi-sensor data processing and fusion
 - **Path Planning**: Intelligent navigation algorithms with collision avoidance
 - **Dynamic Environments**: Autonomous decision-making in unpredictable scenarios
-- **Production-Ready**: Containerized with Docker for deployment
 
 **Tech**: Python • ROS 2 • Linux • Docker • Sensor Integration
 
@@ -86,7 +85,7 @@ Interactive web-based guessing game where players identify Avatar: The Last Airb
 
 **Tech**: JavaScript • HTML • CSS
 
-[🎮 Play Bendle](https://atomix77.github.io/bendle/) | [📚 View Code](https://github.com/Atomix77/bendle)
+[🎮 Play Bendle](https://atomix77.github.io/bendle/) | [🔗 View Repository](https://github.com/Atomix77/bendle)
 
 ---
 
@@ -126,15 +125,6 @@ Interactive web-based guessing game where players identify Avatar: The Last Airb
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Atomix77&theme=nord&hide_border=true&show_icons=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomix77&theme=nord&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
----
-
 ## 🔗 Let's Connect
 
 📌 **[Portfolio](https://atomix77.github.io/portfolio/)** - Full CV, experience, and detailed project showcases  
@@ -142,7 +132,3 @@ Interactive web-based guessing game where players identify Avatar: The Last Airb
 📧 **[Email](mailto:hasllamtom77@gmail.com)** - Get in touch
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atomix77&color=00D9FF&style=flat-square" alt="Profile views" />
-</div>
